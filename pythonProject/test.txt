@@ -1,0 +1,92 @@
+------------------------------------------------------------------------------------------------------------------------------------------------------------ ---------------------------------
+ Exploit Title                                                                                                                                              |  Path
+------------------------------------------------------------------------------------------------------------------------------------------------------------ ---------------------------------
+Academy-LMS 4.3 - Stored [01;31m[KXSS[m[K                                                                                                                                | multiple/webapps/49298.txt
+Alumni Management System 1.0 - _Course Form_ Stored [01;31m[KXSS[m[K                                                                                                     | php/webapps/49286.txt
+Alumni Management System 1.0 - _Last Name field in Registration page_ Stored [01;31m[KXSS[m[K                                                                            | php/webapps/49433.txt
+Apple macOS HelpViewer 10.12.1 - [01;31m[KXSS[m[K Leads to Arbitrary File Execution / Arbitrary File Read                                                                | macos/remote/41443.html
+Baby Care System 1.0 - 'Post title' Stored [01;31m[KXSS[m[K                                                                                                              | php/webapps/49358.txt
+Best Support System 3.0.4 - 'ticket_body' Persistent [01;31m[KXSS[m[K (Authenticated)                                                                                    | php/webapps/49122.txt
+BlogEngine 3.3.8 - 'Content' Stored [01;31m[KXSS[m[K                                                                                                                     | aspx/webapps/48999.txt
+CA BrightStor ARCserve for Laptops & Desktops LGServer - 'r[01;31m[KxsS[m[KetDataGrowthScheduleAndFilter' Remote Buffer Overflow (Metasploit)                            | windows/remote/16415.rb
+CASAP Automated Enrollment System 1.0 - 'First Name' Stored [01;31m[KXSS[m[K                                                                                             | php/webapps/49469.txt
+CASAP Automated Enrollment System 1.0 - 'route' Stored [01;31m[KXSS[m[K                                                                                                  | php/webapps/49470.txt
+ChurchCRM 4.2.1 - Persistent Cross Site Scripting ([01;31m[KXSS[m[K)                                                                                                     | multiple/webapps/49172.txt
+Class Scheduling System 1.0 - Multiple Stored [01;31m[KXSS[m[K                                                                                                           | php/webapps/49323.txt
+Coastercms 5.8.18 - Stored [01;31m[KXSS[m[K                                                                                                                              | php/webapps/49181.txt
+CodeIgniter 2.1 - '[01;31m[Kxss[m[K_clean()' Filter Security Bypass                                                                                                      | php/webapps/37521.txt
+Comtrend AR-5387un router - Persistent [01;31m[KXSS[m[K (Authenticated)                                                                                                  | hardware/webapps/48908.py
+Content Management System 1.0 - 'First Name' Stored [01;31m[KXSS[m[K                                                                                                     | php/webapps/49271.txt
+Courier Management System 1.0 - 'First Name' Stored [01;31m[KXSS[m[K                                                                                                     | php/webapps/49241.txt
+CRUD Operation 1.0 - Multiple Stored [01;31m[KXSS[m[K                                                                                                                    | php/webapps/49393.txt
+Curfew e-Pass Management System 1.0 - Stored [01;31m[KXSS[m[K                                                                                                            | php/webapps/49391.txt
+Customer Support System 1.0  - 'description' Stored [01;31m[KXSS[m[K in The Admin Panel                                                                                  | php/webapps/49028.txt
+Customer Support System 1.0 - _First Name_ & _Last Name_ Stored [01;31m[KXSS[m[K                                                                                         | php/webapps/49275.txt
+Employee Record System 1.0 - Multiple Stored [01;31m[KXSS[m[K                                                                                                            | php/webapps/49280.txt
+Faculty Evaluation System 1.0 - Stored [01;31m[KXSS[m[K                                                                                                                  | php/webapps/49320.txt
+Flexmonster Pivot Table & Charts 2.7.17 - 'Remote JSON' Reflected [01;31m[KXSS[m[K                                                                                       | multiple/webapps/49305.txt
+Flexmonster Pivot Table & Charts 2.7.17 - 'Remote Report' Reflected [01;31m[KXSS[m[K                                                                                     | multiple/webapps/49302.txt
+Flexmonster Pivot Table & Charts 2.7.17 - 'To OLAP' Reflected [01;31m[KXSS[m[K                                                                                           | multiple/webapps/49303.txt
+Flexmonster Pivot Table & Charts 2.7.17 - 'To remote CSV' Reflected [01;31m[KXSS[m[K                                                                                     | multiple/webapps/49304.txt
+Genexis Platinum-4410 - 'SSID' Persistent [01;31m[KXSS[m[K                                                                                                               | hardware/webapps/48948.txt
+House Rental and Property Listing 1.0 - Multiple Stored [01;31m[KXSS[m[K                                                                                                 | php/webapps/49352.txt
+Interview Management System 1.0 - Stored [01;31m[KXSS[m[K in Add New Question                                                                                            | php/webapps/49278.txt
+Jenkins 2.235.3 - 'Description' Stored [01;31m[KXSS[m[K                                                                                                                  | java/webapps/49237.txt
+Joomla! Component [01;31m[Kxss[m[Ktream-dm 0.01b - SQL Injection                                                                                                         | php/webapps/5587.pl
+Library Management System 3.0 - _Add Category_ Stored [01;31m[KXSS[m[K                                                                                                   | php/webapps/49315.txt
+Life Insurance Management System 1.0 - Multiple Stored [01;31m[KXSS[m[K                                                                                                  | php/webapps/49395.txt
+LifeRay 7.2.1 GA2 - Stored [01;31m[KXSS[m[K                                                                                                                              | multiple/webapps/49091.txt
+Mailman 1.x > 2.1.23 - Cross Site Scripting ([01;31m[KXSS[m[K)                                                                                                           | cgi/webapps/48970.txt
+Matri[01;31m[KxSS[m[KL < 4.0.2 - Stack Buffer Overflow Verifying x.509 Certificates                                                                                      | linux/dos/46435.txt
+Medical Center Portal Management System 1.0 - Multiple Stored [01;31m[KXSS[m[K                                                                                           | php/webapps/49236.txt
+Microsoft Anti[01;31m[KXSS[m[K 3/4.0 Library Sanitization Module - Security Bypass                                                                                       | windows/remote/36507.txt
+Microsoft Indexing Service - 'i[01;31m[Kxss[m[Ko.dll' ActiveX Control Denial of Service                                                                                  | windows/dos/37673.html
+Microsoft Windows 10 1809 / 1709 - CSRSS S[01;31m[KxSS[m[Krv Cached Manifest Privilege Escalation                                                                        | windows/local/46712.txt
+MiniCMS 1.10 - 'content box' Stored [01;31m[KXSS[m[K                                                                                                                     | php/webapps/49193.txt
+Multi Branch School Management System 3.5 - _Create Branch_ Stored [01;31m[KXSS[m[K                                                                                      | php/webapps/49316.txt
+Multi Restaurant Table Reservation System 1.0 - Multiple Persistent [01;31m[KXSS[m[K                                                                                     | php/webapps/49135.txt
+Online Discussion Forum Site 1.0 - [01;31m[KXSS[m[K in Messaging System                                                                                                  | php/webapps/48897.txt
+Online Doctor Appointment System 1.0 - Multiple Stored [01;31m[KXSS[m[K                                                                                                  | php/webapps/49396.txt
+Online Learning Management System 1.0 - Multiple Stored [01;31m[KXSS[m[K                                                                                                 | php/webapps/49325.txt
+Openfire 4.6.0 - 'groupchatJID' Stored [01;31m[KXSS[m[K                                                                                                                  | jsp/webapps/49233.txt
+Openfire 4.6.0 - 'path' Stored [01;31m[KXSS[m[K                                                                                                                          | jsp/webapps/49229.txt
+Openfire 4.6.0 - 'sql' Stored [01;31m[KXSS[m[K                                                                                                                           | jsp/webapps/49235.txt
+Openfire 4.6.0 - 'users' Stored [01;31m[KXSS[m[K                                                                                                                         | jsp/webapps/49234.txt
+Oracle Business Intelligence Enterprise Edition 11.1.1.7.140715 - Stored [01;31m[KXSS[m[K                                                                                | multiple/webapps/49444.txt
+PDW File Browser 1.3 - 'new_filename' Cross-Site Scripting ([01;31m[KXSS[m[K)                                                                                            | php/webapps/48947.txt
+PESCMS TEAM 2.3.2 - Multiple Reflected [01;31m[KXSS[m[K                                                                                                                  | multiple/webapps/49072.txt
+PHPJabbers Appointment Scheduler 2.3 - Reflected [01;31m[KXSS[m[K (Cross-Site Scripting)                                                                                 | php/webapps/49281.txt
+Point of Sale System 1.0 - Multiple Stored [01;31m[KXSS[m[K                                                                                                              | php/webapps/49306.txt
+PRTG Network Monitor 20.4.63.1412 - 'maps' Stored [01;31m[KXSS[m[K                                                                                                       | windows/webapps/49156.txt
+Queue Management System 4.0.0 - _Add User_ Stored [01;31m[KXSS[m[K                                                                                                       | php/webapps/49296.txt
+Resumes Management and Job Application Website 1.0 - Multiple Stored [01;31m[KXSS[m[K                                                                                    | php/webapps/49381.txt
+Rumble Mail Server 0.51.3135 - 'domain and path' Stored [01;31m[KXSS[m[K                                                                                                 | multiple/webapps/49254.txt
+Rumble Mail Server 0.51.3135 - 'servername' Stored [01;31m[KXSS[m[K                                                                                                      | multiple/webapps/49253.txt
+Rumble Mail Server 0.51.3135 - 'username' Stored [01;31m[KXSS[m[K                                                                                                        | multiple/webapps/49255.txt
+Sales and Inventory System for Grocery Store 1.0 - Multiple Stored [01;31m[KXSS[m[K                                                                                      | php/webapps/49329.txt
+Savsoft Quiz 5 - 'Skype ID' Stored [01;31m[KXSS[m[K                                                                                                                      | php/webapps/49208.txt
+SCO Openserver 5.0.7 - 'section' Reflected [01;31m[KXSS[m[K                                                                                                              | sco/webapps/49300.txt
+Seacms 11.1 - 'checkuser' Stored [01;31m[KXSS[m[K                                                                                                                        | multiple/webapps/49251.txt
+Selea Targa IP OCR-ANPR Camera - 'files_list' Remote Stored [01;31m[KXSS[m[K                                                                                             | hardware/webapps/49454.txt
+Seotoaster 3.2.0 - Stored [01;31m[KXSS[m[K on Edit page properties                                                                                                       | php/webapps/49268.txt
+Smart Hospital 3.1 - _Add Patient_ Stored [01;31m[KXSS[m[K                                                                                                               | php/webapps/49290.txt
+Subrion CMS 4.2.1 - 'avatar[path]' [01;31m[KXSS[m[K                                                                                                                      | php/webapps/49346.txt
+Task Management System 1.0 - 'First Name and Last Name' Stored [01;31m[KXSS[m[K                                                                                          | php/webapps/49222.txt
+User Registration & Login and User Management System With admin panel 2.1 - Persistent [01;31m[KXSS[m[K                                                                  | php/webapps/48914.txt
+VTiger v7.0 CRM - 'To' Persistent [01;31m[KXSS[m[K                                                                                                                       | php/webapps/49090.txt
+WebKit - Universal [01;31m[KXSS[m[K in HTMLFrameElementBase::isURLAllowed                                                                                                | multiple/dos/47552.txt
+WebKit - Universal [01;31m[KXSS[m[K in JSObject::putInlineSlow and JSValue::putToPrimitive                                                                               | multiple/dos/47591.txt
+WebKit - Universal [01;31m[KXSS[m[K in WebCore::command                                                                                                                  | multiple/dos/47451.html
+WebKit - Universal [01;31m[KXSS[m[K Using Cached Pages                                                                                                                   | multiple/dos/47453.txt
+WebKit - U[01;31m[KXSS[m[K Using JavaScript: URI and Synchronous Page Loads                                                                                              | multiple/dos/47450.txt
+WebKit - U[01;31m[KXSS[m[K via XSLT and Nested Document Replacements                                                                                                     | multiple/dos/47237.txt
+Wordpress Core 5.2.2 - 'post previews' [01;31m[KXSS[m[K                                                                                                                  | php/webapps/49338.txt
+WordPress Plugin Custom Global Variables 1.0.5 - 'name' Stored Cross-Site Scripting ([01;31m[KXSS[m[K)                                                                   | php/webapps/49406.txt
+WordPress Plugin Easy Contact Form 1.1.7 - 'Name' Stored Cross-Site Scripting ([01;31m[KXSS[m[K)                                                                         | php/webapps/49427.txt
+WordPress Plugin Stripe Payments 2.0.39 - 'AcceptStripePayments-settings[currency_code]' Stored [01;31m[KXSS[m[K                                                         | php/webapps/49354.txt
+WordPress Plugin WP-Paginate 2.1.3 - 'preset' Stored [01;31m[KXSS[m[K                                                                                                    | php/webapps/49355.txt
+Xeroneit Library Management System 3.1 - _Add Book Category _ Stored [01;31m[KXSS[m[K                                                                                    | php/webapps/49292.txt
+Xwiki CMS 12.10.2 - Cross Site Scripting ([01;31m[KXSS[m[K)                                                                                                              | multiple/webapps/49437.txt
+Zabbix 5.0.0 - Stored [01;31m[KXSS[m[K via URL Widget Iframe                                                                                                             | php/webapps/49202.txt
+------------------------------------------------------------------------------------------------------------------------------------------------------------ ---------------------------------
+Shellcodes: No Results
