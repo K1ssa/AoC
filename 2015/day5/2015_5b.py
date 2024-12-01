@@ -3,10 +3,16 @@ nice = 0
 with open('day5.txt', "r") as f:
     for line in f.readlines():
         s = line.strip()
-        req1 = sum(char in 'aeiou' for char in s) >= 3
-        req2 = any(s[i] == s[i+1] for i in range(len(s)-1))
-        req3 = not any(x in s for x in ['ab', 'cd', 'pq', 'xy'])
-        nice += (req1 and req2 and req3)
+        req1 = False
+        for i in range(len(s)-1):
+            pair = s[i:i+2]
+            for j in range(i+2, len(s)-1):
+                pair2 = s[j:j+2]
+                if pair == pair2:
+                    req1 = True
+                    break
+        req2 = any(s[i] == s[i+2] for i in range(len(s)-2))
+        nice += (req1 and req2)
 
 print(nice)
 
